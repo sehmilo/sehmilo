@@ -18,8 +18,8 @@ My expertise lies at the intersection of exploration geology, spatial data scien
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_minimal.svg" title="QGIS"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender"/></code>
-<img src="https://github.com/sehmilo/sehmilo/blob/main/qgis-logo.png" width="100%"></img>
-<img src="https://github.com/sehmilo/sehmilo/blob/main/arcgis-pro-logo.png" width="100%"></img>
+<img src="https://github.com/sehmilo/sehmilo/blob/main/qgis-logo.png" width="20%"></img>
+<img src="https://github.com/sehmilo/sehmilo/blob/main/arcgis-pro-logo.png" width="20%"></img>
 
 
 
