@@ -16,8 +16,7 @@ My expertise lies at the intersection of exploration geology, spatial data scien
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" title="qgis"/></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Esri_Logo.svg" title="arcgis pro"/></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_minimal.svg" title="QGIS"/></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Esri_Logo.svg" title="ArcGIS Pro"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender"/></code>
 
 
