@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 I'm Shadrach and I enjoy everything geospatial - from cartopgraphy, geospatial analysis and communicating information with StoryMaps.  
+
 My expertise lies at the intersection of exploration geology mostly in base metals, geospatial data science and Python programming. I am currently moving towards building web applications and AI agents for everything geo.
 
 **Languages and tools:**  
