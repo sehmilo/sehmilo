@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-I'm Shadrach and I enjoy making maps.  
-My expertise lies at the intersection of exploration geology, spatial data science and Python programming. I also build web applications and APIs that help derive meaningful insight from geographic data.
+I'm Shadrach and I enjoy everything geospatial - from cartopgraphy, geospatial analysis and communicating information with StoryMaps.  
+My expertise lies at the intersection of exploration geology mostly in base metals, geospatial data science and Python programming. I am currently moving towards building web applications and AI agents for everything geo.
 
 **Languages and tools:**  
 
