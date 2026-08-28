@@ -22,9 +22,6 @@ My expertise lies at the intersection of exploration geology mostly in base meta
 <img src="https://github.com/sehmilo/sehmilo/blob/main/arcgis-pro-logo.png" width="5%"></img>
 
 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehmilo&show_icons=true" alt="sehmilo" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shadrach-sheriff-portfolio.netlify.app/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/ShedrackSheriff) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shadrach-sheriff-100s/)
